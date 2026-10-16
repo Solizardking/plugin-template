@@ -72,4 +72,4 @@ A result of `z2PF5gVnemAZat6jSnLdgG7MB9SNX1TCrRc2bkHq8DQ=` means the `?` was dro
 2. Notify the MoonPay integration contact.
 3. MoonPay confirms enforcement on the account before production.
 
-Cheshire `pump-fun` may proxy MoonPay APIs; widget URLs still need this backend signer. Do not treat the proxy as a substitute for signed URLs.
+The Cheshire `launchpad-local` server may proxy MoonPay APIs; widget URLs still need this backend signer. Do not treat the proxy as a substitute for signed URLs.

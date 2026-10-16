@@ -1,11 +1,11 @@
 {
   "name": "clawd",
   "displayName": "Clawd",
-  "version": "1.1.0",
-  "description": "Official Clawd plugin for Cursor — six-law harness, ClawdBot Go runtime, Cheshire Terminal MCP, OODA trading, MoonPay signed on-ramp URLs, and Solana agent catalog.",
+  "version": "1.2.0",
+  "description": "Clawd for Cursor: Solana agent runtime, paper-first OODA trading with safety hooks, market data MCPs and an agent catalog.",
   "author": {
-    "name": "OpenClawd",
-    "url": "https://cheshireterminal.ai"
+    "name": "Musebook / OpenClawd",
+    "url": "https://musebook.trade"
   },
   "license": "MIT",
   "keywords": [
@@ -20,5 +20,7 @@
     "agents",
     "moonpay"
   ],
-  "logo": "assets/logo.svg"
+  "logo": "assets/logo.png",
+  "homepage": "https://musebook.trade",
+  "repository": "https://github.com/Solizardking/plugin-template"
 }
