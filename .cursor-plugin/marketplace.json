@@ -1,38 +1,18 @@
 {
   "name": "clawd",
   "owner": {
-    "name": "OpenClawd",
-    "url": "https://cheshireterminal.ai"
+    "name": "Musebook / OpenClawd",
+    "url": "https://musebook.trade"
   },
   "metadata": {
-    "description": "Official Clawd marketplace — ClawdBot Go, Clawd Code, Helius/core-ai, Cheshire Terminal MCP, and Cursor plugin starters",
-    "version": "1.0.0"
+    "description": "Clawd marketplace for Cursor",
+    "version": "1.2.0"
   },
   "plugins": [
     {
       "name": "clawd",
       "source": "./plugins/clawd",
-      "description": "Official Clawd plugin: six-law harness, OODA trading, Cheshire Terminal MCP, MoonPay signed on-ramp URLs, and Solana agent catalog"
-    },
-    {
-      "name": "clawd-code",
-      "source": "./plugins/clawd-code",
-      "description": "Clawd Code CLI plugin: Solana coding agent, paper-gated perps, Helius/DFlow/Jupiter/Phantom, Agent Arena"
-    },
-    {
-      "name": "helius",
-      "source": "./plugins/helius",
-      "description": "Helius + core-ai: MCP, CLI, DAS/Sender, DFlow/Jupiter/Phantom/OKX, Pump MCP, Clawd perps/Grok, Solana docs"
-    },
-    {
-      "name": "starter-simple",
-      "source": "./plugins/starter-simple",
-      "description": "Minimal plugin with rules and skills only"
-    },
-    {
-      "name": "starter-advanced",
-      "source": "./plugins/starter-advanced",
-      "description": "Full-featured plugin with rules, skills, agents, commands, hooks, and MCP"
+      "description": "Clawd for Cursor: Solana agent runtime, paper-first OODA trading with safety hooks, market data MCPs and an agent catalog."
     }
   ]
 }

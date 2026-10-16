@@ -11,7 +11,7 @@ description: Birth a Clawd spawn with constitution files and the default MCP see
    - `robinhood-trading` → `https://agent.robinhood.com/mcp/trading` (Agentic account only)
    - `clawd` + `clawd-soltrader` via `$CLAWDBROWSER_ROOT`
    - in-tree `soltrader`, `markets`, `perps`, `risk` when running Zero workspace
-   - `pump-fun` stdio → `$CHESHIRE_TERMINAL_ROOT/mcp-server/dist/index.js`
+   - `launchpad-local` stdio → `$CHESHIRE_TERMINAL_ROOT/mcp-server/dist/index.js`
    - `cheshire-site` → `https://cheshireterminal.ai/mcp` with `CHESHIRE_API_KEY`
    - `cheshire-terminal` → Scalar OpenAPI MCP
    - `paybox` → `https://api.paybox.sh/mcp`
